@@ -48,3 +48,9 @@
 .viewers_and_hours span {
     margin-right: 5px;
 }
+
+@media (min-width: 1024px) {
+    .container {
+        width: 300px;
+    }
+}

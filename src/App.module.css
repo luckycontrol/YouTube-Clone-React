@@ -9,6 +9,6 @@ body {
     background-color: rgb(250, 250, 250);
 }
 
-.container {
-    
+.menu_and_videos {
+    display: flex;
 }
